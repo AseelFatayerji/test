@@ -89,13 +89,12 @@ Offline Functionality: Works even without an internet connection for accessibili
 ### Built With
 
 
-* [![React][React.js]][React-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Arduino][Arduino.com]][Arduino-url]
-* 
-*
-* 
-* [![JQuery][JQuery.com]][JQuery-url]
+* React
+* Laravel
+* Tailwind
+* Flutter
+* Mindstorm
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,10 +126,6 @@ _Below is an example of how you can instruct your audience on installing and set
 3. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -243,7 +238,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/ 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[arduino.cc]: https://img.shields.io/badge/arduino-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 
 
